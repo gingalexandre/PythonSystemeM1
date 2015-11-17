@@ -4,6 +4,10 @@
 __author__ = 'Mathieu Mourot, Alexandre GINGEMBRE, Arthur MOUREY et Baptiste ROUX'
 
 import sqlite3
+
+
+
+
 #connection = sqlite3.connect("BDD_tweets.db")
 conn = None
 try :
