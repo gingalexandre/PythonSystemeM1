@@ -1,7 +1,7 @@
 #! /usr/bin/python3
 # -*- coding: utf8 -*-
 
-__author__ = 'Mathieu Mourot, Alexandre GINGEMBRE, Artur MOUREY et Baptiste ROUX'
+__author__ = 'Mathieu Mourot, Alexandre GINGEMBRE, Arthur MOUREY et Baptiste ROUX'
 
 import sqlite3
 #connection = sqlite3.connect("BDD_tweets.db")
